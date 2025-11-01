@@ -1,0 +1,117 @@
+{
+  "Home": "Home",
+  "Kyrgyzstan": "Kyrgyzstan",
+  "CentralAsia": "Central Asia",
+  "About": "About us",
+  "Contact": "News",
+  "Tours": "Tours",
+  "banner": {
+    "explore": "Explore Kyrgyzstan",
+    "slogan1": "Land of",
+    "slogan2": "Majestic Peaks",
+    "slogan3": "and Warm Hearts",
+
+    "applyNow": "Apply now"
+  },
+  "lost": "Look like you're lost",
+  "notAvailabel": "The page you are looking for is not available!",
+  "goHome": "Go To Home",
+  "Country": {
+    "Kazakhstan": "Kazakhstan",
+    "Tajikistan": "Tajikistan",
+    "Uzbekistan": "Uzbekistan",
+    "Turkmenistan": "Turkmenistan"
+  },
+  "kyrgyz": {
+    "slogan": "The Heart of Central Asia",
+    "sliderTitle1": "DISCOVER KYRGYZSTAN:",
+    "sliderDesc1": "Explore Kyrgyzstan, where stunning nature meets vibrant culture. Nestled in Central Asia, this charming country offers breathtaking landscapes, from the majestic peaks of the Tien Shan to the tranquil shores of Lake Issyk-Kul. Explore its rugged mountains and immerse yourself in rich traditions—an adventure awaits!",
+    "sliderTitle2": "MOUNTAIN HAVEN: ",
+    "sliderDesc2": "Kyrgyzstan is a treasure trove for nature enthusiasts, featuring the magnificent Tien Shan Mountain Range that stretches across 80% of the country. Among its heights is Victory Peak, soaring to 7,439 meters, making it one of the tallest in the world. This stunning landscape invites you to trek, climb, and immerse yourself in its breathtaking beauty!",
+    "sliderTitle3": "ISSYK-KUL: THE PEARL OF KYRGYZSTAN:",
+    "sliderDesc3": "Issyk-Kul is an oasis of beauty and tranquility in the heart of the mountains. With its vibrant blue waters and golden beaches, the lake ranks as the second largest high-altitude lake in the world and never freezes in winter. Here, you can swim, sunbathe, and immerse yourself in the unique culture of the local people!",
+    "sliderTitle4": "CULTURAL HERITAGE OF KYRGYZSTAN：",
+    "sliderDesc4": "Kyrgyzstan features a vibrant cultural heritage shaped by centuries of history and diverse traditions. From ancient nomadic customs to lively festivals, the country showcases unique art, music, and crafts. Discover the fascinating blend of history and culture that makes Kyrgyzstan a truly special destination!",
+    "sliderTitle5": "HOSPITALITY:",
+    "sliderDesc5": "In Kyrgyzstan, hospitality is the language of love. Locals express warmth by offering tea and inviting guests into their homes. Sharing meals and stories creates connections that transcend language barriers. For Kyrgyz people, making others happy is a true expression of care and respect, making every visit unforgettable.",
+    "cardTitle1": "Four seasons in one day",
+    "cardDesc1": "In Kyrgyzstan, thanks to the diverse landscape and heights, you can experience all four seasons in one day: morning on snow-capped peaks, day in a blooming valley, evening in a hot city and night on autumn plains",
+    "cardTitle2": "Modern Kyrgyzstan",
+    "cardDesc2": "Despite its turbulent history and Soviet influence, Kyrgyzstan stands out as a vibrant democracy, where freedom of speech, religion, and self-expression thrive. This welcoming atmosphere makes it an intriguing destination for travelers seeking cultural richness and personal discovery",
+    "cardTitle3": "Nut-bearing forests of Kyrgyzstan",
+    "cardDesc3": "The largest nut forests on Earth are located in the Aksanbob Valley in southern Kyrgyzstan. Their area exceeds 600,000 hectares, and they are situated at an altitude of 1,700 meters above sea level"
+  },
+  "kazakh": {
+    "slogan": "A Bridge between East and West!",
+    "sliderTitle1": "Steppes of Kazakhstan",
+    "sliderDesc1": "Immerse yourself in the vast steppes of Kazakhstan, which stretch for thousands of kilometers, offering a sense of freedom and unique natural beauty. Here, you can experience nomadic life, enjoy outdoor activities, and dive into the rich atmosphere of traditional culture!",
+    "sliderTitle2": "Astana",
+    "sliderDesc2": "In 1997, a new capital was established in Kazakhstan—Astana. Additionally, the ancient city of Turkestan was meticulously restored. Its history dates back to the 9th-10th centuries, and it is renowned as a cultural and historical center of the country. Notably, the mausoleum of Khoja Ahmed Yasawi, built in the 15th century, stands out as a significant landmark",
+    "sliderTitle3": "Lake Balkhash",
+    "sliderDesc3": "Lake Balkhash is a remarkable destination in southeastern Kazakhstan and one of the largest lakes in Central Asia. Its uniqueness lies in the combination of both fresh and saline waters. Visiting Balkhash allows you to enjoy its stunning nature and diverse ecosystems!",
+    "cardDesc1": "Kazakhstan is the largest country in Central Asia by area and the ninth largest country in the world. There are more than 130 nationalities living in the country, which creates a unique cultural palette.",
+    "cardDesc2": "On April 12, 1961, at 9:07 Moscow time, the “Vostok” spacecraft with Yuri Gagarin on board was launched from the Baikonur cosmodrome, located in Kazakhstan",
+    "cardDesc3": "Kazakhstan is the birthplace of tulips and apples, making it an exciting destination for nature lovers. The country showcases a stunning variety of tulip species that bloom in vibrant colors."
+  },
+  "uzbek": {
+    "slogan": "The Heart of the Silk Road",
+    "sliderTitle1": "A TREASURE OF HISTORY AND ARCHITECTURE",
+    "sliderDesc1": "Uzbekistan is a Central Asian country known for its rich Silk Road history, featuring ancient cities like Samarkand, Bukhara, and Khiva, famous for their stunning Islamic architecture. The country has a diverse cultural heritage influenced by Persian, Turkish, and Soviet eras. Its capital, Tashkent, is a modern city with Soviet-era monuments and vibrant bazaars. These breathtaking examples of Eastern architecture provide a deeper understanding of the rich history and culture of this remarkable country!",
+    "sliderTitle2": "A CULTURAL TREASURE",
+    "sliderDesc2": "Uzbekistan is renowned for its artisans who preserve traditional crafts. Here, you'll discover stunning carpet weaving, wood carving, doll-making, and jewelry. Be sure to pay special attention to Rishtan ceramics — a vibrant hallmark of the country. Don’t miss the chance to visit workshops where craftsmen will share their secrets. This immersion in Uzbek art will provide you with unique souvenirs for your collection!",
+    "sliderTitle3": "WORLD’S LARGEST OPEN-AIR MUSEUM",
+    "sliderDesc3": "The ancient city of Khiva is a well-preserved open-air museum, particularly the Itchan Kala, a walled inner city that feels frozen in time, showcasing centuries-old Islamic architecture and traditional Uzbek culture. As you wander its narrow alleys, you’ll encounter stunning mosaics, towering minarets, and vibrant bazaars that transport you to a bygone era, offering a glimpse into the rich tapestry of Central Asian history.",
+    "cardDesc1": "Uzbekistan boasts 300 sunny days a year! This country is famous for its delicious melons, grapes, pomegranates, apricots, and figs. Fertile land and bright sunshine make Uzbekistan a true paradise for fruit lovers.",
+    "cardDesc2": "Uzbekistan is a country rich in unique archaeological finds. Large dinosaur footprints left 75 million years ago were discovered in the area of the Gissarg Range. And in 2000, a mummy of the Queen of Sakka, dating back to the 2nd century B.C., was found near Samarkand",
+    "cardDesc3": "Uzbek cuisine is famous for pilaf, a national dish with deep cultural roots. This rice dish with meat and vegetables is not only the basis of Uzbek gastronomy, but also the central element of public holidays. Each region has its own unique pilaf recipe and is so important for culture that it has been included in the UNESCO Intangible Heritage List"
+  },
+  "trkm": {
+    "slogan": "Mysteries of the East in Every Step",
+    "sliderTitle1": "MARBLE SYMPHONY OF ARCHITECTURE",
+    "sliderDesc1": "The architecture of Ashgabat is truly unique and attracts tourists with its beauty. The cityscape impresses with modern and grand structures dominated by white marble and golden accents. Many buildings harmoniously combine traditional Turkmen design elements, creating a memorable style. Strolling through the streets of Ashgabat, you can enjoy the magnificence of the architecture and the unique atmosphere that reflects the rich culture and history of Turkmenistan!",
+    "sliderTitle2": "EMBODYING TURKMEN SPIRIT",
+    "sliderDesc2": "The Akhal-Teke horse, with its bright metallic sheen and remarkable endurance, is a symbol of national pride and identity for the Turkmen people. Its image can be seen on the national emblem, as well as in statues and monuments throughout the country. When you visit Turkmenistan, you'll have the opportunity to learn more about this unique breed and its significance to the local culture!",
+    "sliderTitle3": "A JOURNEY into the UNEXPLORED",
+    "sliderDesc3": "Turkmenistan is one of the least explored countries in the world, which adds to its unique appeal. Its distinct combination of strict laws, scorching climate, and rich cultural heritage attracts adventurous travelers. However, getting there isn't easy: stringent visa regulations and the requirement to travel in organized groups limit opportunities for independent exploration. This inaccessibility only fuels curiosity, allowing only the boldest adventurers to witness the remarkable mysteries of this enigmatic land!",
+    "cardDesc1": "The Darvaza gas crater is a unique and mysterious site that has been burning for decades. It was formed in 1971 when a Soviet drilling rig accidentally struck a natural gas cavern. To prevent a methane leak, the gas was ignited, with the expectation it would burn out in a few weeks. However, the crater continues to blaze, creating a mesmerizing spectacle in the Karakum Desert.",
+    "cardDesc2": "In Ashgabat, there is a unique Museum of Turkmen Carpets. Its main treasure is the giant carpet 'Turkmen Kalby' (193.5 m²), created in 1941-1942. In 1996, a second carpet was woven (266 m²), followed by a third in 1998 (294 m²), which adorns the Ruhyet Palace. In 2001, a fourth carpet (301 m²) was created, recognized by the Guinness World Records as the largest handmade carpet in the world.",
+    "cardDesc3": "Over 70% of Turkmenistan's territory is covered by desert, with the vast Karakum Desert—meaning 'Black Sand' in Turkic—being one of the largest sandy deserts in the world. This desert shapes the arid climate and unique geography of the country, influencing its environment and natural conditions."
+  },
+  "tajik": {
+    "slogan": "Journey Through the Footsteps of Ancestors!",
+    "sliderTitle1": "A cozy corner among MOUNTAINS and RIVERS",
+    "sliderDesc1": "Tajikistan is a true treasure for nature lovers, with 90% of its territory covered by majestic mountains and half of its heights soaring above 3,000 meters. In the heart of the Pamir and Alai ranges stands Peak Ismoil Somoni, proudly reaching 7,495 meters. But Tajikistan isn’t just about mountains: over 900 rivers stretch longer than 10 km, with the Amu Darya and Syr Darya being the most prominent, adding unique charm to the country. Explore Tajikistan, where every landscape tells a story and nature beckons you to an unforgettable adventure!",
+    "sliderTitle2": "A JOURNEY THROUGH TIME",
+    "sliderDesc2": "Tajikistan is a land rich in cultural and linguistic diversity. In the 7th century, it was a center of Buddhism, later becoming a key hub on the Silk Road. By the 12th century, Islamic culture had made its mark on the language and arts. The vibrant individuality and deep symbolism of Tajik culture are especially evident in the secluded Yagnob Valley, where the inhabitants, descendants of the ancient Sogdians, have had minimal contact with the outside world and still speak a dialect of the extinct Sogdian language. Discover the cultural heritage of Tajikistan, where history and tradition intertwine in breathtaking landscapes!",
+    "sliderTitle3": "The path to the MOUNTAINS of FAIRY TALES",
+    "sliderDesc3": "The Pamir Highway is a road that authoritative publications regularly feature among the world’s most beautiful routes. Known as the Pamir Highway or M41, it is the second highest international road, winding through the majestic Pamir Mountains.With each turn, breathtaking views unfold, and the high mountain passes turn the journey into a true adventure. At 2,320 meters lies the Pamir Botanical Garden, home to over 20,000 plants, creating an oasis amidst the mountains.Traveling along the Pamir Highway is an immersion into a world of natural wonders and cultural diversity that will be unforgettable!",
+    "cardDesc1": "In Tajikistan, the lemons, pistachios, and tea are incredibly delicious. Savvy travelers call them the best in the world and bring them home by the kilogram. The lemons are known for their bright tartness and aromatic zest. Tajik pistachios, rich in flavor and with a delicate texture, are often used in traditional sweets. Meanwhile, tea brewed from ancient recipes fills each sip with warmth and comfort, turning tea-drinking into a true ritual.",
+    "cardDesc2": "The mount Khudja Mumin is an extraordinary natural wonder, composed entirely of pure salt that glimmers in stunning shades of gray, pink, and turquoise. With reserves estimated at 30 billion tons, this mountain has the potential to supply humanity with salt for centuries. It’s not just a geological masterpiece; it’s a true treasure trove capable of nourishing generations to come!",
+    "cardDesc3": "In Tajikistan, price tags are a rarity, as bargaining is the norm. Even in brand-name stores, prices often remain open for discussion. Negotiating isn’t just a habit; it’s a cultural tradition, where purchasing an item without attempting to lower the price may be seen as disrespectful. Locals believe that the process of discussing prices is enjoyable for both sellers and buyers, fostering an atmosphere of mutual respect and friendly interaction."
+  },
+  "day": "day",
+  "rights": "© Bishkek 2024. All Rights Reserved",
+  "contactUs": "Contact us",
+  "detailTour": {
+    "duration": "Duration :",
+    "season": "Season :",
+    "level": "Level of tour :",
+    "price": "Price :",
+    "day": "Day",
+    "startsFrom": "starts from"
+  },
+  "AP": {
+    "bannerWord": "People have always been and remain a part of nature, no matter how high they rise above it",
+    "author": "Chingiz Aitmatov",
+    "mission": "Our mission",
+    "missionText": "Nomadia is a travel company based in Kyrgyzstan with a mission to promote sustainable and responsible tourism. We focus on organizing eco-friendly tours that showcase the natural beauty and cultural heritage of Kyrgyzstan while supporting local communities and respecting the environment. Our goal is to provide authentic travel experiences that connect guests with local traditions, landscapes and people, ensuring that tourism has a positive impact on both the environment and the economy",
+    "icon1": "Prompt Feedback",
+    "icon2": "Visa Assistance",
+    "icon3": "High-Quality Work",
+    "whyChoose": "Why choose Nomadia Tours",
+    "whyChooseText": "Choose Nomadia for a truly unique experience. With expert guides, deep local knowledge, and a passion for discovery, we ensure every trip is tailored to your interests. From breathtaking landscapes to vibrant traditions, we promise an adventure that goes beyond expectations",
+    "ourStory": "Our Story",
+    "ourStoryText": "Since 2019, we have been dedicated to tourism as professional tour guides. Our experience has helped us create unique and memorable tour routes. We carefully check each destination to make sure you have the best experience possible.Growing up in the beautiful Tianshan Mountains, we want to share the true nomadic culture with you. Our aim is to give you an experience that goes beyond regular sightseeing.We hope you enjoy our tours, because for us, it’s more than just a job; it’s what we love to do. There is nothing better than seeing our clients smile, and those happy moments make our work rewarding.Come join us on an amazing adventure, and let us show you the beauty of our culture and land!"
+  },
+  "noTour": "We apologize, the tour information is not available at the moment"
+}

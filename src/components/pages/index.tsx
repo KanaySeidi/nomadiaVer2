@@ -1,0 +1,9 @@
+export { Main } from "./main/Main.async";
+export { About } from "./about/About.async";
+export { KG } from "./KG/KG.async";
+export { CA } from "./CA/CA.async";
+export { KZ } from "./country/Kazahstan/KZ.async";
+export { TJK } from "./country/Tadjikistan/TJK.async";
+export { TRK } from "./country/Turkmenistan/TRK.async";
+export { UZB } from "./country/Uzbekistan/UZB.async";
+export { DetailTour } from "./detail/DetailTour.async";
