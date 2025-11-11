@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import Modal from "@/components/molecules/modal/Modal";
-import mainBanner from "@/assets/img/nomad.png";
+import mainBanner from "@/assets/img/nomad.webp";
 import reqStore from "@/api/userStore/requestStore";
 import useUrlForVideo from "@/api/videoStore/videoStore";
 import LightRays from "@/components/LightRays";

@@ -52,23 +52,6 @@ function KZ() {
           </div>
         </div>
       </div>
-      <div className="w-full xl:mt-64 lg:mt-40 md:mt-52 sm:mt-64 xs:mt-80  h-auto flex flex-col lg:flex-row justify-center xl:justify-between lg:justify-around items-center relative xl:px-24 px-4 lg:py-20">
-        <div className="flex flex-col justify-center items-center w-80 bg-fistash p-4 lg:h-96 h-40 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white lg:text-base text-xs text-justify">
-            {t("kazakh.cardDesc1")}
-          </p>
-        </div>
-        <div className="flex flex-col justify-center items-center w-80  bg-fistash p-4 lg:h-96 h-40 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white lg:text-base text-justify text-xs">
-            {t("kazakh.cardDesc2")}
-          </p>
-        </div>
-        <div className="flex flex-col justify-center items-center w-80 bg-fistash p-4 lg:h-96 h-40 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white lg:text-base text-justify text-xs">
-            {t("kazakh.cardDesc3")}
-          </p>
-        </div>
-      </div>
       <div className="w-full h-full  bg-fistash relative lg:px-24 px-4 pb-20 pt-10 mt-20">
         <h1 className="text-white lg:text-2xl text-lg">{t("Tours")}</h1>
         <div className="w-full h-full flex flex-wrap gap-10 lg:justify-evenly justify-center items-center bg-fistash relative px-24 py-20">

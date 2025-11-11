@@ -50,23 +50,6 @@ function KG() {
           </div>
         </div>
       </div>
-      <div className="w-full xl:mt-40 lg:mt-20 md:mt-20 sm:mt-16 xs:mt-72 h-auto flex flex-col lg:flex-row justify-center xl:justify-between lg:justify-around items-center relative xl:px-24 px-4 lg:py-20">
-        <div className="flex flex-col xl:justify-center justify-center items-center w-80 bg-fistash p-4 lg:h-96 h-44 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white xl:text-base lg:text-base text-xs text-justify">
-            {t("kyrgyz.cardDesc1")}
-          </p>
-        </div>
-        <div className="flex flex-col xl:justify-center justify-center items-center w-80  bg-fistash p-4 xl:h-96 lg:h-96 h-44 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white xl:text-base lg:text-base text-justify text-xs">
-            {t("kyrgyz.cardDesc2")}
-          </p>
-        </div>
-        <div className="flex flex-col justify-center items-center w-80 bg-fistash p-4 lg:h-96 h-44 rounded-lg shadow-lg mb-2">
-          <p className="mt-2 text-white lg:text-base text-justify text-xs">
-            {t("kyrgyz.cardDesc3")}
-          </p>
-        </div>
-      </div>
       <div className="w-full h-full  bg-fistash relative lg:px-24 px-4 pb-20 pt-10 mt-20">
         <h1 className="text-white lg:text-2xl text-lg">{t("Tours")}</h1>
         <div className="flex flex-wrap gap-10 lg:justify-evenly justify-center items-center mt-4">
