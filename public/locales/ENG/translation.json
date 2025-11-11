@@ -113,5 +113,6 @@
     "ourStory": "Our Story",
     "ourStoryText": "Since 2019, we have been dedicated to tourism as professional tour guides. Our experience has helped us create unique and memorable tour routes. We carefully check each destination to make sure you have the best experience possible.Growing up in the beautiful Tianshan Mountains, we want to share the true nomadic culture with you. Our aim is to give you an experience that goes beyond regular sightseeing.We hope you enjoy our tours, because for us, it’s more than just a job; it’s what we love to do. There is nothing better than seeing our clients smile, and those happy moments make our work rewarding.Come join us on an amazing adventure, and let us show you the beauty of our culture and land!"
   },
-  "noTour": "We apologize, the tour information is not available at the moment"
+  "noTour": "We apologize, the tour information is not available at the moment",
+  "networkErr" : "Network error"
 }

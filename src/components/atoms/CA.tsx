@@ -6,27 +6,27 @@ import type { CA } from "@/types";
 
 export const CACountry: CA[] = [
   {
-    title: "Country.Kazakhstan",
-    href: "/central/kazakhstan",
-    img: kazBtn,
+    text: "Country.Kazakhstan",
+    link: "/central/kazakhstan",
+    image: kazBtn,
     id: 1,
   },
   {
-    title: "Country.Uzbekistan",
-    href: "/central/uzbekistan",
-    img: uzbBtn,
+    text: "Country.Uzbekistan",
+    link: "/central/uzbekistan",
+    image: uzbBtn,
     id: 2,
   },
   {
-    title: "Country.Tajikistan",
-    href: "/central/tadjikistan",
-    img: tjsBtn,
+    text: "Country.Tajikistan",
+    link: "/central/tadjikistan",
+    image: tjsBtn,
     id: 3,
   },
   {
-    title: "Country.Turkmenistan",
-    href: "/central/turkmenistan",
-    img: trkmBtn,
+    text: "Country.Turkmenistan",
+    link: "/central/turkmenistan",
+    image: trkmBtn,
     id: 4,
   },
 ];

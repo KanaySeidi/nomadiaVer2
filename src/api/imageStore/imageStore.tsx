@@ -14,6 +14,12 @@ type ImageStore = {
   getPalaroidImg: () => Promise<void>;
 };
 
+type SliderImgStore = {
+  images: TImage[];
+  err: string | null;
+  getSliderImg1: () => Promise<void>;
+};
+
 const usePalaroidImg = create<ImageStore>((set) => ({
   images: [],
   err: null,
@@ -28,17 +34,19 @@ const usePalaroidImg = create<ImageStore>((set) => ({
   },
 }));
 
-const useSliderImg1 = create((set, get: any) => ({
+const useSliderImg1 = create<SliderImgStore>((set, get) => ({
   images: [],
   err: null,
   getSliderImg1: async () => {
     if (get().images.length > 0) return;
     try {
-      const res = await axios(`${API}/api/gallery/first`);
+      const res = await axios<TImage[]>(`${API}/api/gallery/first`);
       set({ images: res.data, err: null });
-    } catch (err: any) {
+    } catch (err: unknown) {
       console.log("Ошибка");
-      set({ err: err.message });
+      set({
+        err: axios.isAxiosError(err) ? err.message : "Unknown error",
+      });
     }
   },
 }));

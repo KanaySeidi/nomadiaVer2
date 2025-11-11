@@ -11,10 +11,7 @@ import {
 } from "@/components/pages";
 
 const routes = [
-  {
-    path: "/",
-    element: <Main />,
-  },
+  { path: "/", element: <Main /> },
   { path: "/kyrgyzstan", element: <KG /> },
   { path: "/central", element: <CA /> },
   { path: "/about", element: <About /> },

@@ -34,11 +34,11 @@ function Footer() {
           </Link>
           {CACountry.map((country) => (
             <Link
-              to={country.href}
+              to={country.link}
               key={country.id}
               className="hover:text-bel mb-2"
             >
-              {t(country.title)}
+              {t(country.text)}
             </Link>
           ))}
         </div>

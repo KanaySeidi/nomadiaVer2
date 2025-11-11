@@ -7,13 +7,15 @@ import { Outlet } from "react-router-dom";
 const Layout = () => {
   return (
     <>
-      <Header />
-      <main>
-        <Suspense fallback={<Loader />}>
-          <Outlet />
-        </Suspense>
-      </main>
-      <Footer />
+      <div className="min-h-dvh flex flex-col">
+        <Header />
+        <main className="flex-1">
+          <Suspense fallback={<Loader />}>
+            <Outlet />
+          </Suspense>
+        </main>
+        <Footer />
+      </div>
     </>
   );
 };
