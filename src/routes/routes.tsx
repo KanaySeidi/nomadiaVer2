@@ -1,10 +1,13 @@
 import {
   About,
+  AdminDashboard,
+  AdminLogin,
   CA,
   DetailTour,
   KG,
   KZ,
   Main,
+  ProtectedRoute,
   TJK,
   TRK,
   UZB,
@@ -20,16 +23,19 @@ const routes = [
   { path: "/central/tadjikistan", element: <TJK /> },
   { path: "/central/turkmenistan", element: <TRK /> },
   { path: "/tour/:id", element: <DetailTour /> },
-  // { path: "/admin/sign", element: <AdminPanel /> },
-  // { path: "/admin/tours/kyrgyzstan", element: <KyrgyzstanTours /> },
-  // { path: "/admin/tours/addKGTours", element: <AddTour /> },
-  // { path: "/admin/tours/addCentralAsiaTours", element: <AddTour /> },
-  // { path: "/admin/tours/centralAsia", element: <CentralAsiaTours /> },
-  // { path: "/admin/staff", element: <AdminAbout /> },
-  // { path: "/admin/pictures", element: <Pictures /> },
-  // { path: "/admin/video", element: <Video /> },
-  // { path: "/admin/tour_detail/:id", element: <TourDetail /> },
-  // { path: "/admin/staff_details/:id", element: <StaffDetails /> },
+  
+  // Админ роуты (временно без защиты, пока бекенд не работает)
+  { path: "/admin/login", element: <AdminLogin /> },
+  { path: "/admin/dashboard", element: <AdminDashboard /> },
+  
+  // Защищенные админские роуты (закомментировано, пока бекенд не работает)
+  // {
+  //   path: "/admin",
+  //   element: <ProtectedRoute />,
+  //   children: [
+  //     { path: "dashboard", element: <AdminDashboard /> },
+  //   ],
+  // },
 ];
 
 export default routes;

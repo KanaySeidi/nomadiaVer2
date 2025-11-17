@@ -17,4 +17,26 @@ const useUrlForVideo = create((set) => ({
   },
 }));
 
+// Admin video store
+type AdminVideoStore = {
+  loading: boolean;
+  error: string | null;
+  addVideo: (link: string) => Promise<void>;
+};
+
+export const useAdminVideoStore = create<AdminVideoStore>((set) => ({
+  loading: false,
+  error: null,
+  addVideo: async (link: string) => {
+    set({ loading: true, error: null });
+    try {
+      await axios.post(`${API}/api/video`, { link });
+      set({ loading: false });
+    } catch (err: any) {
+      set({ loading: false, error: err.response?.data?.message || err.message });
+      throw err;
+    }
+  },
+}));
+
 export default useUrlForVideo;

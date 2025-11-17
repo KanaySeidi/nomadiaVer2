@@ -12,6 +12,7 @@ type ImageStore = {
   images: TImage[];
   err: string | null;
   getPalaroidImg: () => Promise<void>;
+  updatePolaroidImage: (id: number, file: File) => Promise<void>;
 };
 
 type SliderImgStore = {
@@ -20,7 +21,7 @@ type SliderImgStore = {
   getSliderImg1: () => Promise<void>;
 };
 
-const usePalaroidImg = create<ImageStore>((set) => ({
+const usePalaroidImg = create<ImageStore>((set, get) => ({
   images: [],
   err: null,
   getPalaroidImg: async () => {
@@ -30,6 +31,25 @@ const usePalaroidImg = create<ImageStore>((set) => ({
     } catch (err: any) {
       console.log("Ошибка");
       set({ err: err.message });
+    }
+  },
+  updatePolaroidImage: async (id: number, file: File) => {
+    try {
+      const formData = new FormData();
+      formData.append("image", file);
+
+      await axios.put(`${API}/api/polaroid/${id}`, formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      });
+
+      // Обновляем список после успешного изменения
+      await get().getPalaroidImg();
+    } catch (err: any) {
+      console.log("Ошибка при обновлении изображения");
+      set({ err: err.message });
+      throw err;
     }
   },
 }));

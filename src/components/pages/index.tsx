@@ -7,3 +7,8 @@ export { TJK } from "./country/Tadjikistan/TJK.async";
 export { TRK } from "./country/Turkmenistan/TRK.async";
 export { UZB } from "./country/Uzbekistan/UZB.async";
 export { DetailTour } from "./detail/DetailTour.async";
+export { AdminLogin } from "./admin/AdminLogin.async";
+export { AdminDashboard } from "./admin/AdminDashboard.async";
+export { AddTour } from "./admin/AddTour.async";
+export { EditTourAsync as EditTour } from "./admin/EditTour.async";
+export { default as ProtectedRoute } from "./admin/ProtectedRoute";
